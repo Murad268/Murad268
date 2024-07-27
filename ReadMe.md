@@ -16,8 +16,7 @@ I have been developing myself in the web field for almost 3 years. On different 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=murad268&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=murad268&limit=5&theme=onedark&combine_all_yearly_contributions=true)
